@@ -5,4 +5,4 @@ status: wip
 time: 2014/5/1
 ---
 
-2014/5: Start learning Node.js
+2014/5/1: Start learning Node.js
