@@ -2,7 +2,7 @@
 layout: post
 title: Write a program in assembly language
 status: todo
-time: 2014
+time: Not started
 ---
 
 I learned some basics of assembly language back when I was in undergrad. I am really not sure if I really want to pick it up again...:P
