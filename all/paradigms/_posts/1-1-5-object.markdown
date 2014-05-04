@@ -7,6 +7,7 @@ time: 2014/5
 
 Mostly C++. I start learning Java more recently (because of Scala).
 
+---
 There is a long reading list of C++ which I **should** read *carefully*, and I still working on it.
 
 Completed: 
