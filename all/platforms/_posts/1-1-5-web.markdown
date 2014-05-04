@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Write a nontrivial web app
-status: todo
-time: Not started
+status: wip
+time: 2014/5/1
 ---
 
 2014/5: Start learning Node.js
